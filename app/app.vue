@@ -17,8 +17,8 @@ useHead({
 })
 
 useSeoMeta({
-  ogImage: 'https://ui.nuxt.com/assets/templates/nuxt/landing-light.png',
-  twitterImage: 'https://ui.nuxt.com/assets/templates/nuxt/landing-light.png',
+  ogImage: '/images/london.png',
+  twitterImage: '/images/london.png',
   twitterCard: 'summary_large_image'
 })
 </script>
@@ -26,11 +26,8 @@ useSeoMeta({
 <template>
   <UApp :toaster="{ expand: false }">
     <AppHeader />
-
     <UMain>
       <NuxtPage />
     </UMain>
-
-    <AppFooter />
   </UApp>
 </template>
