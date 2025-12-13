@@ -36,7 +36,8 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
     <template #right>
       <UNavigationMenu :items="items" variant="link" class="hidden lg:block" />
 
-      <UButton label="Register" variant="subtle" class="hidden lg:block" />
+      <UButton label="Register" variant="subtle" class="hidden lg:block"
+        href="https://sosy2026.eu/nGeneral-information/Practical/" target="_blank" rel="noopener noreferrer" />
 
       <UColorModeButton />
     </template>
