@@ -116,15 +116,6 @@ efforts:
           target: _blank
           avatar:
             src: https://me.ryey.icu/assets/photo.jpg
-    - id: lws
-      title: Linked Web Storage
-      description:
-        W3C LWS Working Group will publish a web standard which Solid will buld on.
-        We will explore what is being addressed in LWS Protocol specification.
-      start: 2026-06-15T12:00:00Z
-      image:
-        light: "/images/lws.png"
-        dark: "/images/lws.png"
 agenda:
   title: "[Agenda]{.text-primary}"
   description: Presentations in chronological order.
