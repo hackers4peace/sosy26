@@ -76,7 +76,7 @@ efforts:
             src: https://avatars.githubusercontent.com/u/876431?v=4
     - id: mandat
       title: MANDAT
-      description: Todo
+      description: Authorizing Solid Applications via Proxies
       start: 2026-04-30T10:20:00Z
       image:
         light: "/images/mandat.png"
